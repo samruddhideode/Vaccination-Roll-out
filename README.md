@@ -1,5 +1,6 @@
 # Vaccination-Roll-out
-Final project for Data Structures and Algorithms lab CE2205
+Final project for Data Structures and Algorithms lab CE2205.
+
 We have written a C++ Program to manage the roll out of Covid-19 vaccine where an eligible user can register for his vaccine dose, be allotted his timeslot, take the vaccine,
 and leave after he’s done.
 
