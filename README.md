@@ -41,3 +41,6 @@ Eg.A person with comorbidities and the highest age amongst the current registere
 
 
 6. Other functionalities of the Admin and the Citizen class are looking up the list of citizens who are  supposed to get vaccinated today and looking up the top ‘n’ entries from the vaccination queue.
+
+
+***Run userInterface.cpp to test the code***
